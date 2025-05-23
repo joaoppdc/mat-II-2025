@@ -1,4 +1,9 @@
 body{
     background-color: rgb(255, 255, 255);
 }
-header{background-color: rgb(255, 255, 255, 0);}
+header{
+    background-color: rgb(255, 255, 255, 0);
+    font-family: "Jaini Purva, system-ui";
+    font-size: 32px;
+    text-align: center;
+}
